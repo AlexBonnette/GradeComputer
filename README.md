@@ -8,7 +8,8 @@ the last output option.
 Once I get the program working via manual grade entry, there are 2 features that I would like to implement:
 
 (1) I would like to enable the user to input grades via a text file, to make grade entry less annoying (especially for repeated
-use).
+use). Additionally, I would like to provide the option for users to load the last session's values (even if they did not enter the 
+grades through a text file), with the option to add anything further if they so desire.
 
 (2) The current program version simply asks for output and input through the terminal. I would like to convert it to a graphical 
 application through wxSmith in CodeBlocks, to make it more visually appealing to the average user.
